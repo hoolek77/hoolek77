@@ -15,6 +15,7 @@
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux.js.org/)
 [![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://styled-components.com/)
 [![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)](https://material-ui.com/)
+[![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-38B2AC?style=flat-square&logo=chakra-ui&logoColor=white)](https://material-ui.com/)
 [![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)](https://storybook.js.org/)
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 
