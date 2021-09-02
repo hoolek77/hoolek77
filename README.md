@@ -1,7 +1,7 @@
 ### Hi there, I'm Szymon <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 ## I'm a remote React developer and Computer Science student based in Poznań!
 
-- 🔮 I’m currently looking for a job as frontend developer 💻
+- 🔮 I’m currently looking for a job as a frontend developer 💻
 - 📆 2021 Goal: Become proficient with GraphQL and keep developing my React skills. 🍇
 - 💥 Fun fact one: I love sports, like biking 🚴, going to gym 🏋️, and volleyball. 🏐
 - 💥 Fun fact two: I'm a big fan of Formula 1. 🏎️
