@@ -3,8 +3,8 @@
 
 - 🔮 I’m currently looking for a job as frontend developer 💻
 - 📆 2021 Goal: Become proficient with GraphQL and keep developing my React skills. 🍇
-- ⚡ Fun fact one: I love sports, like biking 🚴, going to gym 🏋️, and volleyball. 🏐
-- ⚡ Fun fact two: I'm a big fan of Formula 1. 🏎️
+- 💥 Fun fact one: I love sports, like biking 🚴, going to gym 🏋️, and volleyball. 🏐
+- 💥 Fun fact two: I'm a big fan of Formula 1. 🏎️
 
 ---
 
