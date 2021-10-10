@@ -17,7 +17,6 @@
 [![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)](https://material-ui.com/)
 [![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-38B2AC?style=flat-square&logo=chakra-ui&logoColor=white)](https://material-ui.com/)
 [![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)](https://storybook.js.org/)
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 
 ##### Back-end
 [![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/en/)
