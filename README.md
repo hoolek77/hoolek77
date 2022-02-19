@@ -8,6 +8,11 @@
 
 ---
 
+### All-time coding activity (since tracked)
+[![wakatime](https://wakatime.com/badge/user/5bbe3042-151f-495f-9727-94a83117a408.svg)](https://wakatime.com/@5bbe3042-151f-495f-9727-94a83117a408)
+
+---
+
 ### 👨‍💻 My tech stack
 
 ##### Front-end
