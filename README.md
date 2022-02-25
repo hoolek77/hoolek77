@@ -2,7 +2,7 @@
 ## I'm a remote React developer and Computer Science student based in Poznań!
 
 - 🔮 I’m currently working as a Junior React Developer at [@DreamStorm Studios](https://dreamstormstudios.com/) 💻
-- 📆 2021 Goal: Become proficient with GraphQL and keep developing my React skills. 🍇
+- 📆 2022 Goal: Become proficient with GraphQL and keep developing my React skills. 🍇
 - 💥 Fun fact one: I love sports, like biking 🚴, going to gym 🏋️, and volleyball. 🏐
 - 💥 Fun fact two: I'm a big fan of Formula 1. 🏎️
 
