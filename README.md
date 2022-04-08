@@ -17,8 +17,10 @@
 
 ##### Front-end
 [![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)](https://redux.js.org/)
 [![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)](https://styled-components.com/)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 [![Material UI](https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)](https://material-ui.com/)
 [![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-38B2AC?style=flat-square&logo=chakra-ui&logoColor=white)](https://material-ui.com/)
 [![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)](https://storybook.js.org/)
@@ -27,6 +29,8 @@
 [![Nodejs](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/en/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![NestJS](https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white)](https://nestjs.com/)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 
 ##### General
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
