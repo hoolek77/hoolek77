@@ -1,4 +1,4 @@
-### Hi there, I'm Szymon <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Hi there, I'm Szymon <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
 ## I'm a remote React developer and Computer Science student based in Poznań!
 
 - 🔮 I’m currently working as a Junior React Developer at [@DreamStorm Studios](https://dreamstormstudios.com/) 💻
