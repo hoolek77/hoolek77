@@ -13,6 +13,14 @@
 
 ---
 
+---
+
+### 📊 Weekly development breakdown
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ### 👨‍💻 My tech stack
 
 ##### Front-end
