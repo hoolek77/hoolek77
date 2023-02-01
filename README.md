@@ -1,5 +1,5 @@
 ### Hi there, I'm Szymon <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
-## I'm a remote React developer and Computer Science student based in Poznań!
+## I'm a remote Frontend developer and Computer Science student based in Poznań!
 
 - 🔮 I’m currently working as a Frontend Developer at [@JJM Development](https://jjmdevelopment.pl/) 💻
 - 📆 2023 Goal: Get familiar with end-to-end tests with Playwright/Cypress, try out trpc with Next.js and create full-stack application with it 🚀
