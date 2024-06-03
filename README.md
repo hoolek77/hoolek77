@@ -17,7 +17,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Lua    1 min           ████████████████░░░░░░░░░   63.71 %
+tmux   0 secs          ██████░░░░░░░░░░░░░░░░░░░   23.39 %
+JSON   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.48 %
+kity   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 ```
 
 <!--END_SECTION:waka-->
