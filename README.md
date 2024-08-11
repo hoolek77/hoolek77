@@ -1,13 +1,3 @@
-### Hi there, I'm Szymon <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">
-## I'm a remote Frontend developer and Computer Science student based in Poznań!
-
-- 🔮 I’m currently working as a Frontend Engineer at [@Swapcard](https://www.swapcard.com/) 💻
-- 📆 2023 Goal: Get familiar with end-to-end tests with Playwright/Cypress, try out trpc with Next.js and create full-stack application with it 🚀
-- 💥 Fun fact one: I love sports, like biking 🚴, going to gym 🏋️, and volleyball. 🏐
-- 💥 Fun fact two: I'm a big fan of Formula 1. 🏎️
-
----
-
 ### All-time coding activity (since tracked)
 [![wakatime](https://wakatime.com/badge/user/5bbe3042-151f-495f-9727-94a83117a408.svg)](https://wakatime.com/@5bbe3042-151f-495f-9727-94a83117a408)
 
