@@ -1,23 +1,9 @@
+<!---
 ### All-time coding activity (since tracked)
+-->
 [![wakatime](https://wakatime.com/badge/user/5bbe3042-151f-495f-9727-94a83117a408.svg)](https://wakatime.com/@5bbe3042-151f-495f-9727-94a83117a408)
 
----
-
-### 📊 Weekly development breakdown
-<!--START_SECTION:waka-->
-
-```txt
-TypeScript    9 hrs 4 mins    ██████████████▒░░░░░░░░░░   57.70 %
-Lua           2 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
-Swift         1 hr 57 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.42 %
-tmux          40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
-Go            30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-```
-
 <!--END_SECTION:waka-->
-
----
-
 <!---
 ### 👨‍💻 My tech stack
 
@@ -56,8 +42,9 @@ Go            30 mins         ▓░░░░░░░░░░░░░░░�
 [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
 ---
--->
+
 
 ### 📈 My stats
  
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hoolek77&count_private=true&show_icons=true&include_all_commits=true&theme=vue" />
+-->
