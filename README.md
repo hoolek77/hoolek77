@@ -18,6 +18,7 @@ Go            30 mins         ▓░░░░░░░░░░░░░░░�
 
 ---
 
+<!---
 ### 👨‍💻 My tech stack
 
 ##### Front-end
@@ -55,6 +56,7 @@ Go            30 mins         ▓░░░░░░░░░░░░░░░�
 [![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
 ---
+-->
 
 ### 📈 My stats
  
